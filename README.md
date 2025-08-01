@@ -44,9 +44,9 @@
   <img width="12" />
   <img src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" height="40" alt="typeorm logo" />
   <img width="12" />
-  <img src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-f9xj6e1k.png" height="40" alt="swagger logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="40" alt="swagger logo" />
   <img width="12" />
-  <img src="https://res.cloudinary.com/cloudinary-marketing/image/upload/v1667810735/brand/Cloudinary_Logo_Stacked_Black_kn5zoo.png" height="40" alt="cloudinary logo" />
+  <img src="https://cdn.simpleicons.org/cloudinary" height="40" alt="cloudinary logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="12" />
@@ -76,7 +76,7 @@
 
 ## Mis redes sociales   
 <div align="center">
-<a href="www.linkedin.com/in/lucia-robert-7bab081b3" target="_blank">
+<a href="https://www.linkedin.com/in/lucia-robert-7bab081b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
   
