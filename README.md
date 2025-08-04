@@ -13,7 +13,7 @@
 - ❓ Preguntame sobre el stack MERN   
   
 
-- ⚡puedo crear tu sitio web para vender y ganar dinero.  
+- ⚡Escribo código para que las ideas vivan en la web. Full Stack dev con corazón backend y mente curiosa.  
   
 
 <br/>  
