@@ -79,6 +79,9 @@
 <a href="https://www.linkedin.com/in/lucia-robert-7bab081b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-  
+<a href="mailto:luciarobert6@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/luciarobert6@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" />
+</a>
+</div>
 
 <br/>  
